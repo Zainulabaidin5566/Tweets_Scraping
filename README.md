@@ -13,7 +13,7 @@ Extracted Top trending Hashtags in your country using
 Extracted Tweets related to each scraped hashtag using "twint 2.1.20".https://pypi.org/project/twint/
 
 ## 3. JSON file_pandas 1.1.1
-Stored the data in "custom_out.json" using "Pandas 1.1.1".
+Stored the data in "custom_out.json" using "Pandas 1.1.1" DataFrame.
 
 ## 4. Stored data to SQLite Database
 Stored data in "SQLite" for further data analysis and queries.
