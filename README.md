@@ -1,10 +1,10 @@
-# Top Trending Hashtags and related Tweets_Scraping in your country
+# Top Trending Hashtags in your country and related Tweets_Scraping
 
 ## 1. Hashtag Scraping_selenium 3.141.0_beautifulsoup4 4.9.1   
 Installed driver "geckodriver.log" and saved to project directory.
 No need to install at your end as i have also uploded the driver file.
 
-Extracted Top trending Hashtags according to your country using 
+Extracted Top trending Hashtags in your country using 
 
 "selenium 3.141.0"https://pypi.org/project/selenium/ . for Web scraping.
 "beautifulsoup4 4.9.1 ".https://pypi.org/project/beautifulsoup4/ for HTML Parsing.
